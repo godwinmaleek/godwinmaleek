@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm godwin</h1>
+<h1 align="center">Hi 👋, I'm Godwin</h1>
 <h3 align="center">A Front-end Developer with a passion for crafting elegant solutions efficiently, I aim to leverage my skills to contribute meaningfully to any organization. I am eager to continue learning and gaining experience to enhance my productivity and reliability</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godwinmaleek&label=Profile%20views&color=0e75b6&style=flat" alt="godwinmaleek" /> </p>
